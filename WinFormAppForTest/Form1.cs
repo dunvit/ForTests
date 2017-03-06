@@ -19,7 +19,7 @@ namespace WinFormAppForTest
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            var a = "1.21";
+            var a = "1.22";
         }
     }
 }
