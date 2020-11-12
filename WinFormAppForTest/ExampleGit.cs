@@ -8,6 +8,6 @@ namespace WinFormAppForTest
 {
     class ExampleGit
     {
-        // version 6.0 commit 01
+        // version 6.0 commit 02
     }
 }
