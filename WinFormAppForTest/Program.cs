@@ -18,6 +18,7 @@ namespace WinFormAppForTest
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             // Master 3
+            // Version 7 2
         }
     }
 }
